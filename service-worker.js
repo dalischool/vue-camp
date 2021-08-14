@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "c141a5558bfcc41b139d0f3ca5a37fc3"
+    "revision": "ac789032d5b7ec245981395637e61d73"
   },
   {
     "url": "advanced/code-splitting.html",
